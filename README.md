@@ -1,6 +1,7 @@
-### Olá, eu sou a Bruna Sanches!  🌺💙
+### Helloo, how are you? 
+### I'm Bruna Sanches! 🎀💖
 
-- 🌱 Tenho 22 anos e estou no 5º Semestre do curso de Sistemas de Informações.
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
