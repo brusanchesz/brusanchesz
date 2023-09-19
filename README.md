@@ -1,19 +1,23 @@
-### Helloo, how are you? 
-### I'm Bruna Sanches! 🎀💖
+<div align="center">
+<h1>Helloo, how are you? </h1> 
+<h1>I'm Bruna Sanches! 🎀💖</h1>
 
-  
-  ##
- 
-<div> 
+<div align="center"> 
   <a href="https://www.instagram.com/bru_sanchesz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bruna-pereira-sanches-150972237/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+</div>
+
+<div align= "left">
+<h4>
+- 🌱 I intend to be in constant learning in the field of technology. <br>
+- 🎯 I'm a student in the Information Systems program at the Federal Institute of Paraná.<br>
+- 🦋 If you can dream it, you can do it! 🙏🏻 <br>
+- I'm Brazilian 🇧🇷
+</h4>
 </div>
 
 
-
-
-# 💻 Tech Stack 🤩
+<h2> 💻 Tech Stack 🤩 </h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -29,9 +33,11 @@
 </div>
 
 
-# 👩🏻‍💻 GitHub Status 📚
+<h2> 👩🏻‍💻 GitHub Status 📚 </h2>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bru_sanchesz&theme=jolly&hide_border=true)<br/>
 
-[![](https://visitcount.itsvg.in/api?id=bru_sanchesz&icon=2&color=10)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=brusanchesz&style=for-the-badge&color=ff69b4)
 
 
+</div>
