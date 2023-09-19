@@ -6,7 +6,7 @@
   <a href="https://www.instagram.com/bru_sanchesz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bruna-pereira-sanches-150972237/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
+  <img align="right" alt="study" height= "200" width="300" src="https://user-images.githubusercontent.com/62280849/128852791-6fb73a65-29a6-4c5e-84c5-e8372ac2bd77.gif">
 <div align= "left">
 <h4>
 - 🌱 I intend to be in constant learning in the field of technology. <br>
@@ -14,6 +14,7 @@
 - 🦋 If you can dream it, you can do it! 🙏🏻 <br>
 - I'm Brazilian 🇧🇷
 </h4>
+
 </div>
 
 
