@@ -1,10 +1,10 @@
 <div>
   
-  <img  align="left" alt="matrix" height= "200" width="198" src="matrix.gif">
-  <img  align="left" alt="matrix" height= "200" width="198" src="matrix.gif">
-  <img  align="left" alt="matrix" height= "200" width="198" src="matrix.gif">
-  <img  align="left"  alt="matrix" height= "200" width="198" src="matrix.gif">
-  <img  align="left" alt="matrix" height= "200" width="198" src="matrix.gif">
+  <img  align="center" alt="matrix" height= "200" width="198" src="matrix.gif">
+  <img  align="center" alt="matrix" height= "200" width="198" src="matrix.gif">
+  <img  align="center" alt="matrix" height= "200" width="198" src="matrix.gif">
+  <img  align="center"  alt="matrix" height= "200" width="198" src="matrix.gif"><br>
+
   
 </div>
 
@@ -13,7 +13,7 @@
 
 
 <div align="center"> <br>
-<img align="left" alt="fly" height= "100" width="100" src="butterfly.gif">
+<img align="left" alt="fly" height= "100" width="100" src="butterfly.gif"><br>
 <h1>Helloo, how are you? </h1> 
 <h1>I'm Bruna Sanches! 🎀💖</h1>
 
