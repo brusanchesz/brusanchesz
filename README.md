@@ -4,17 +4,16 @@
   <img  align="center"  alt="matrix" hright="200" width="200" src="matrix.gif">
     <img  align="center"  alt="matrix" hright="200" width="200" src="matrix.gif">
   </div>
+  
 <div align="center"> <br>
-
-<h1>Helloo, how are you? </h1> <img align="left" alt="fly" height= "100" width="100" src="butterfly.gif"><br>
+<h1> Helloo, how are you? </h1> <img align="left" alt="fly" height= "100" width="100" src="butterfly.gif"><br>
 <h1>I'm Bruna Sanches! 🎀💖</h1>
 
-<div align="center"> 
+
   <a href="https://www.instagram.com/bru_sanchesz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bruna-pereira-sanches-150972237/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
 
-  <img align="right" alt="coracao" height= "100" width="100" src="pink1.gif">
+<img align="right" alt="coracao" height= "100" width="100" src="pink1.gif">
   
 <div align= "left">
 <h4>
@@ -23,7 +22,6 @@
 - 🦋 If you can dream it, you can do it! 🙏🏻 <br>
 - I'm Brazilian 🇧🇷
 </h4>
-
 </div>
 
 
@@ -45,18 +43,12 @@
 
 <h2> 👩🏻‍💻 GitHub Status 📚 </h2>
 
-<div align="center">
-  
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bru_sanchesz&theme=jolly&hide_border=true)         <p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brusanchesz&layout=compact&theme=jolly&hide_border=true)](https://github.com/brusanchesz/github-readme-stats)
 
 
-
-</div>
-
 ![](https://komarev.com/ghpvc/?username=brusanchesz&style=for-the-badge&color=ff69b4)
-
-
 <br><br>
 <img  align="center" alt="fly2" height= "200" width="200" src="borboleta.gif">
 
