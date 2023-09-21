@@ -1,12 +1,12 @@
-<div>
-  <img  align="left" alt="matrix" height= "200" width="199" src="matrix.gif">
-  <img  align="left" alt="matrix" height= "200" width="199" src="matrix.gif">
-  <img  align="left" alt="matrix" height= "200" width="199" src="matrix.gif">
-  <img  align="left"  alt="matrix" height= "200" width="199" src="matrix.gif">
-  <img  align="left" alt="matrix" height= "200" width="199" src="matrix.gif">
+<!--<div>
+  <img  align="left" alt="matrix" height= "200" width="198" src="matrix.gif">
+  <img  align="left" alt="matrix" height= "200" width="198" src="matrix.gif">
+  <img  align="left" alt="matrix" height= "200" width="198" src="matrix.gif">
+  <img  align="left"  alt="matrix" height= "200" width="198" src="matrix.gif">
+  <img  align="left" alt="matrix" height= "200" width="198" src="matrix.gif">
 </div>
 <br><br>
-
+-->
 
 
 <div align="center">
@@ -44,8 +44,11 @@
   <img align="center" alt="MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="CANVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" /> 
   <img align="center" alt="FIGMA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img align="center" alt="GIMP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" />
+  <img align="center" alt="GIMP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg"    />
+  <img  alt="astronauta" height= "100" width="100" src="astronauta.gif">
+  <br><br>
 </div>
+
 
 
 <h2> 👩🏻‍💻 GitHub Status 📚 </h2>
@@ -54,5 +57,7 @@
 
 ![](https://komarev.com/ghpvc/?username=brusanchesz&style=for-the-badge&color=ff69b4)
 
-
+<img  align="center" alt="fly2" height= "200" width="200" src="borboleta.gif">
 </div>
+
+ 
