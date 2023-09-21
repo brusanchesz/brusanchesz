@@ -1,4 +1,4 @@
-<!--<div>
+<!-<div>
   <img  align="left" alt="matrix" height= "200" width="198" src="matrix.gif">
   <img  align="left" alt="matrix" height= "200" width="198" src="matrix.gif">
   <img  align="left" alt="matrix" height= "200" width="198" src="matrix.gif">
@@ -9,7 +9,7 @@
 -->
 
 
-<div align="center">
+<div align="center"> <br>
 <img align="left" alt="fly" height= "100" width="100" src="butterfly.gif">
 <h1>Helloo, how are you? </h1> 
 <h1>I'm Bruna Sanches! 🎀💖</h1>
@@ -45,19 +45,26 @@
   <img align="center" alt="CANVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" /> 
   <img align="center" alt="FIGMA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" alt="GIMP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg"    />
-  <img  alt="astronauta" height= "100" width="100" src="astronauta.gif">
-  <br><br>
-</div>
-
+</div> 
 
 
 <h2> 👩🏻‍💻 GitHub Status 📚 </h2>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=bru_sanchesz&theme=jolly&hide_border=true)<br/>
+<div align="center">
+  
+![](https://github-readme-streak-stats.herokuapp.com/?user=bru_sanchesz&theme=jolly&hide_border=true)         <p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brusanchesz&layout=compact&theme=jolly&hide_border=true)](https://github.com/brusanchesz/github-readme-stats)
+
+
+
+</div>
 
 ![](https://komarev.com/ghpvc/?username=brusanchesz&style=for-the-badge&color=ff69b4)
 
+
+<br><br>
 <img  align="center" alt="fly2" height= "200" width="200" src="borboleta.gif">
+
 </div>
 
  
