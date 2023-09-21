@@ -1,6 +1,17 @@
-<img align="left" alt="fly" height= "100" width="100" src="butterfly.gif"><div align="center">
-<h1>Helloo, how are you? </h1> 
+<div>
+  <img  align="left" alt="matrix" height= "200" width="199" src="matrix.gif">
+  <img  align="left" alt="matrix" height= "200" width="199" src="matrix.gif">
+  <img  align="left" alt="matrix" height= "200" width="199" src="matrix.gif">
+  <img  align="left"  alt="matrix" height= "200" width="199" src="matrix.gif">
+  <img  align="left" alt="matrix" height= "200" width="199" src="matrix.gif">
+</div>
+<br><br>
 
+
+
+<div align="center">
+<img align="left" alt="fly" height= "100" width="100" src="butterfly.gif">
+<h1>Helloo, how are you? </h1> 
 <h1>I'm Bruna Sanches! 🎀💖</h1>
 
 <div align="center"> 
