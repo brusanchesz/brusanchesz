@@ -1,12 +1,15 @@
-<div align="center">
+<img align="left" alt="fly" height= "100" width="100" src="butterfly.gif"><div align="center">
 <h1>Helloo, how are you? </h1> 
+
 <h1>I'm Bruna Sanches! 🎀💖</h1>
 
 <div align="center"> 
   <a href="https://www.instagram.com/bru_sanchesz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bruna-pereira-sanches-150972237/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-  <img align="right" alt="study" height= "200" width="300" src="/assets/img/pink1.gif">
+
+  <img align="right" alt="coracao" height= "100" width="100" src="pink1.gif">
+  
 <div align= "left">
 <h4>
 - 🌱 I intend to be in constant learning in the field of technology. <br>
