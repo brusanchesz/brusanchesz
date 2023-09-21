@@ -1,13 +1,12 @@
-
-  <img  align="center"  alt="matrix"  src="matrixx.gif"><br>
-
-<p><p>
-
-
-
+<div>
+  <img  align="center"  alt="matrix" hright="200" width="200" src="matrix.gif">
+  <img  align="center"  alt="matrix" hright="200" width="200" src="matrix.gif">
+  <img  align="center"  alt="matrix" hright="200" width="200" src="matrix.gif">
+    <img  align="center"  alt="matrix" hright="200" width="200" src="matrix.gif">
+  </div>
 <div align="center"> <br>
-<img align="left" alt="fly" height= "100" width="100" src="butterfly.gif"><br>
-<h1>Helloo, how are you? </h1> 
+
+<h1>Helloo, how are you? </h1> <img align="left" alt="fly" height= "100" width="100" src="butterfly.gif"><br>
 <h1>I'm Bruna Sanches! 🎀💖</h1>
 
 <div align="center"> 
