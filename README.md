@@ -41,15 +41,18 @@
 </div> 
 
 
-<h2> 👩🏻‍💻 GitHub Status 📚 </h2>
+<!--<h2> 👩🏻‍💻 GitHub Status 📚 </h2>
 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=bru_sanchesz&theme=jolly&hide_border=true)         <p>
+!![](https://github-readme-streak-stats.herokuapp.com/?user=bru_sanchesz&theme=jolly&hide_border=true)         <p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brusanchesz&layout=compact&theme=jolly&hide_border=true)](https://github.com/brusanchesz/github-readme-stats)
 
 
 ![](https://komarev.com/ghpvc/?username=brusanchesz&style=for-the-badge&color=ff69b4)
-<br><br>
+<br><br>-->
+<br>
+<br>
+<br>
 <img  align="center" alt="fly2" height= "200" width="200" src="borboleta.gif">
 
 </div>
